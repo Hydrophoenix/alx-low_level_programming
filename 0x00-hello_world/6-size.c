@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
-* main - printinting the size of various data types on the computer
-*
-* Description: using the main function
-* Return: 0
-*/
+ * main - printinting the size of various data types on the computer
+ *
+ * Description: using the main function
+ * Return: 0
+ */
 int main(void)
 {
     char c;
