@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - print all single digit numbers of base 10
+ * main - print if the number is positive, zero, or negative
  *
  * Description: using main and printf functions
  * Return: 0

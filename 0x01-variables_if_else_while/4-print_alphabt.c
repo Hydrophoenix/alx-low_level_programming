@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints all the letters except q and e
+ * main - prints if the number is positive, zero or negative
  *
  * Description: using main and putchar functions only
  * Return: 0
