@@ -4,6 +4,7 @@
  * main - prints all the letters except q and e
  *
  * Description: using main and putchar functions only
+ * Return: 0
  */
 int main(void)
 {
